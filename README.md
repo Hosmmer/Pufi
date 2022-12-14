@@ -1,4 +1,7 @@
 # Desarollo de Pagina Web Para la Prueba Tecnica de ITGlobers 
+Puede consultar el desarollo de la pagina web que fue subido en un servidor:
+https://cellbox.autoevaluacion.com.co
+
 Mediante la guia de una maqueta en pdf, se implemento la pagina pufi para la prueba usando las siguientes tecnología:
 
 - React.
@@ -20,4 +23,11 @@ Mediante la guia de una maqueta en pdf, se implemento la pagina pufi para la pru
 
 # Conclusión 
 
-Se aplicaron las tecnicas de desarollo de software, la sessiones se trabajaron con CSS Grid Layout, React redux para la administracion de los Layout, se crearon varios componentes entre ellos para el envio emails el cual se validaron los campos. 
+Se aplicaron las tecnicas de desarollo de software, la sessiones se trabajaron con CSS Grid Layout y los estilos con SASS, React redux para la administracion de los Layout, se crearon varios componentes entre ellos para el envio emails el cual se validaron los campos. 
+
+Se refenciaron las diferentes imagenes para ofrecer una mejor calidad visual para el diseño,
+
+# Rerencias Web 
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://aprendermarketing.es/exquisitos-bordes-css-con-mascaras-trucos-css/
